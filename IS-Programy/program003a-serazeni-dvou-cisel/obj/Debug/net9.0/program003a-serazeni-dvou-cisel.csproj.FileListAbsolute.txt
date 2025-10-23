@@ -1,0 +1,5 @@
+C:\Users\vojti\Documents\aaa\github-VK-is-2025-sk2\IS-Programy\program003a-serazeni-dvou-cisel\obj\Debug\net9.0\program003a-serazeni-dvou-cisel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vojti\Documents\aaa\github-VK-is-2025-sk2\IS-Programy\program003a-serazeni-dvou-cisel\obj\Debug\net9.0\program003a-serazeni-dvou-cisel.AssemblyInfoInputs.cache
+C:\Users\vojti\Documents\aaa\github-VK-is-2025-sk2\IS-Programy\program003a-serazeni-dvou-cisel\obj\Debug\net9.0\program003a-serazeni-dvou-cisel.AssemblyInfo.cs
+C:\Users\vojti\Documents\aaa\github-VK-is-2025-sk2\IS-Programy\program003a-serazeni-dvou-cisel\obj\Debug\net9.0\program003a-serazeni-dvou-cisel.csproj.CoreCompileInputs.cache
+C:\Users\vojti\Documents\aaa\github-VK-is-2025-sk2\IS-Programy\program003a-serazeni-dvou-cisel\obj\Debug\net9.0\program003a-serazeni-dvou-cisel.sourcelink.json
