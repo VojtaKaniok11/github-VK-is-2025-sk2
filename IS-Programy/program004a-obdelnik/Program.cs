@@ -55,6 +55,7 @@ while (again == "a")
 
 
 
+
     Console.WriteLine();
     Console.Write("Pro opakování programu stiskněte klávesu a = ano / n = ne");
     again = Console.ReadLine();
