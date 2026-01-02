@@ -1,0 +1,15 @@
+C:\Users\vojti\Documents\aaa\github-VK-is-2025-sk2\IS-Programy\MojeAplikace\obj\Debug\net9.0\MojeAplikace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vojti\Documents\aaa\github-VK-is-2025-sk2\IS-Programy\MojeAplikace\obj\Debug\net9.0\MojeAplikace.AssemblyInfoInputs.cache
+C:\Users\vojti\Documents\aaa\github-VK-is-2025-sk2\IS-Programy\MojeAplikace\obj\Debug\net9.0\MojeAplikace.AssemblyInfo.cs
+C:\Users\vojti\Documents\aaa\github-VK-is-2025-sk2\IS-Programy\MojeAplikace\obj\Debug\net9.0\MojeAplikace.csproj.CoreCompileInputs.cache
+C:\Users\vojti\Documents\aaa\github-VK-is-2025-sk2\IS-Programy\MojeAplikace\obj\Debug\net9.0\MojeAplikace.sourcelink.json
+C:\Users\vojti\Documents\aaa\github-VK-is-2025-sk2\IS-Programy\MojeAplikace\bin\Debug\net9.0\MojeAplikace.exe
+C:\Users\vojti\Documents\aaa\github-VK-is-2025-sk2\IS-Programy\MojeAplikace\bin\Debug\net9.0\MojeAplikace.deps.json
+C:\Users\vojti\Documents\aaa\github-VK-is-2025-sk2\IS-Programy\MojeAplikace\bin\Debug\net9.0\MojeAplikace.runtimeconfig.json
+C:\Users\vojti\Documents\aaa\github-VK-is-2025-sk2\IS-Programy\MojeAplikace\bin\Debug\net9.0\MojeAplikace.dll
+C:\Users\vojti\Documents\aaa\github-VK-is-2025-sk2\IS-Programy\MojeAplikace\bin\Debug\net9.0\MojeAplikace.pdb
+C:\Users\vojti\Documents\aaa\github-VK-is-2025-sk2\IS-Programy\MojeAplikace\obj\Debug\net9.0\MojeAplikace.dll
+C:\Users\vojti\Documents\aaa\github-VK-is-2025-sk2\IS-Programy\MojeAplikace\obj\Debug\net9.0\refint\MojeAplikace.dll
+C:\Users\vojti\Documents\aaa\github-VK-is-2025-sk2\IS-Programy\MojeAplikace\obj\Debug\net9.0\MojeAplikace.pdb
+C:\Users\vojti\Documents\aaa\github-VK-is-2025-sk2\IS-Programy\MojeAplikace\obj\Debug\net9.0\MojeAplikace.genruntimeconfig.cache
+C:\Users\vojti\Documents\aaa\github-VK-is-2025-sk2\IS-Programy\MojeAplikace\obj\Debug\net9.0\ref\MojeAplikace.dll
